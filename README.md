@@ -1,1 +1,3 @@
-JavaScript application to simulate a game
+# guess-my-number-js
+
+JavaScript starter project
